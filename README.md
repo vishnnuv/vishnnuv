@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @vishnnuv
+👋 Hello
+👀 This is where I build simple stuffs
   
 
 <!---
