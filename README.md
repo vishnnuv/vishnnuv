@@ -1,6 +1,4 @@
 👋 Hello
-
-👀 This is where I build simple stuffs
   
 
 <!---
