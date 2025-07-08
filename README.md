@@ -70,7 +70,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/vishnnuv/vishnnuv/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/vishnnuv/vishnnuv/blob/output/snake.svg" alt="snake animation" />
 </p>
 
 
