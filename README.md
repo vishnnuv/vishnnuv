@@ -67,7 +67,7 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contributions
 
 <p align="center">
   <img src="https://github.com/vishnnuv/vishnnuv/blob/output/snake.svg" alt="snake animation" />
