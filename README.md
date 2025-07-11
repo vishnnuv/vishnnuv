@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vishnnu .V</h1>
+<h1 align="center">Hi 👋, I'm Vishnnu</h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -15,7 +15,14 @@
 - 🎓 Computer Science Student  
 - 💻 Passionate MERN Stack Developer  
 - 🌱 Currently exploring **Next.js**, **DevOps**, and **Cloud Engineering**  
-- ⚡ Always improving skills in full-stack development & problem solving  
+- ⚡ Always improving skills in full-stack development & problem solving
+
+---
+
+<p align="center">
+  <a href="mailto:vishnnuv@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/vishnnuv/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white" /></a>
+</p>
 
 ---
 
@@ -68,9 +75,4 @@
   <img src="https://github.com/vishnnuv/vishnnuv/blob/output/snake.svg" alt="snake animation" />
 </p>
 
----
 
-<p align="center">
-  <a href="mailto:vishnnuv@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/vishnnuv/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white" /></a>
-</p>
