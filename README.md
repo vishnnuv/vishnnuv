@@ -8,10 +8,6 @@
 
 <br>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vishnnuv&label=Profile%20views&color=0e75b6&style=plastic" alt="vishnnuv" />
-</p>
-
 ---
 
 ## 👨‍💻 About Me
