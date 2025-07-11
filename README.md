@@ -17,9 +17,8 @@
 - 🌱 Currently exploring **Next.js**, **DevOps**, and **Cloud Engineering**  
 - ⚡ Always improving skills in full-stack development & problem solving
 
----
-
-<p align="center">
+<br>
+<p>
   <a href="mailto:vishnnuv@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/vishnnuv/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white" /></a>
 </p>
